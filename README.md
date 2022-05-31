@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Laura
+- 👀 I’m interested in UX-design, Communications and Frontend. 
+- 🌱 I’m currently participating in Technigo bootcamp
